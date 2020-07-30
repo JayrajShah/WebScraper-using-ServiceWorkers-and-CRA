@@ -1,8 +1,8 @@
 # A Scraper With Service Workers
 
 Scraper will scrape a site even if your browser is closed!!<br>
-Scraping Logic is not added for now.
-This SW just continuously logs some statements. These statements are logged even after you close the window.
+Scraping Logic is not added for now.<br>
+This SW just continuously logs some statements.<br>These statements are logged even after you close the window.
 
 ## Wanna try this project in your Local Machine?
 
